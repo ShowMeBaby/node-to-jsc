@@ -1,0 +1,1 @@
+nohup node ./bytenode/cli.js app.jsc configs.js game_server & nohup node ./bytenode/cli.js app.jsc configs.js hall_server& nohup node ./bytenode/cli.js app.jsc configs.js account_server &
